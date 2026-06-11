@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Spring Boot and Backend Development**
+- 🌱 Currently learning **DSA and Backend Development**
 - 💻 Passionate about building scalable applications
-- 📚 Strong foundation in **Core Java, JDBC, SQL and DSA**
+- 📚 Strong foundation in **Core Java, JDBC, SQL and Springboot**
 - 🎯 Goal: Become a Software Engineer at a top product-based company
 
 ---
@@ -52,7 +52,7 @@
 
 ## 📈 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GogulaJayakrishna&layout=compact&theme=tokyonight)
+![]( https://github-readme-stats.vercel.app/api/top-langs/?username=GogulaJayakrishna&layout=compact&theme=tokyonight&hide=python)
 
 ---
 
