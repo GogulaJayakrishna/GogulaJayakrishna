@@ -1,81 +1,193 @@
  <h1 align="center">Hi 👋, I'm Gogula Jayakrishna</h1>
 
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | DSA Learner</h3>
+<h3 align="center">
+Java Full Stack Developer | Java Backend Developer | Frontend Developer | DSA Learner
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Developer;Problem+Solver;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1200&color=00ABF0&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Java+Backend+Developer;Frontend+Developer+(HTML+CSS+JavaScript);Spring+Boot+Developer;DSA+Learner;Currently+Working+as+Java+Developer+at+Stackly;Always+Learning+New+Things🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GogulaJayakrishna&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🌱 Currently learning **DSA and Backend Development**
-- 💻 Passionate about building scalable applications
-- 📚 Strong foundation in **Core Java, JDBC, SQL and Springboot**
-- 🎯 Goal: Become a Software Engineer at a top product-based company
+- 💼 **Currently working as Java Developer at Stackly (Since May 2026)**
+- 💻 Passionate Java Full Stack Developer
+- ☕ Strong Backend development using Java & Spring Boot
+- 🎨 Frontend Developer using HTML, CSS & JavaScript
+- 🌱 Currently mastering Data Structures & Algorithms
+- 🛠 Love building scalable web applications
+- 🎯 Goal: Software Engineer at a Top Product-Based Company
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Work Experience
 
-### Languages & Technologies
+## 🚀 Java Developer | Stackly
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,spring,mysql" />
+**May 2026 - Present**
+
+- Develop Java-based enterprise applications.
+- Build REST APIs using Spring Boot.
+- Work with JDBC and MySQL databases.
+- Debug and optimize backend applications.
+- Write clean, maintainable and scalable code.
+- Collaborate with development teams.
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" />
 </p>
 
-### Concepts
+---
 
-- Core Java
-- JDBC
-- SQL
-- Spring Boot
-- Data Structures & Algorithms
-- OOPs
-- Collections
-- REST APIs
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Frontend
 
-![](https://github-readme-stats.vercel.app/api?username=GogulaJayakrishna&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=GogulaJayakrishna&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
-## 📈 Most Used Languages
+## 🧰 Tools
 
-![]( https://github-readme-stats.vercel.app/api/top-langs/?username=GogulaJayakrishna&layout=compact&theme=tokyonight&hide=python)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=GogulaJayakrishna&theme=onedark)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
-## 👀 Profile Views
+# 📚 Core Skills
 
-![](https://komarev.com/ghpvc/?username=GogulaJayakrishna&label=Profile%20Views&color=0e75b6&style=flat)
+- ☕ Core Java
+- 🌱 Spring Boot
+- 🗄 MySQL
+- 🔗 JDBC
+- 🌐 REST APIs
+- 🎨 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 📚 Data Structures & Algorithms
+- 🔄 Collections Framework
+- 🎯 OOP
+- 🚀 Problem Solving
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gogula-jayakrishna-19aa90282/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+## 🩺 Early Kidney Stone Detection Using Deep Learning
+
+**Technologies Used**
+
+Python • TensorFlow • Keras • CNN
+
+---
+
+## 🎓 Student Management System
+
+**Technologies Used**
+
+Java • Spring Boot • MySQL
+
+---
+
+## 🎵 Music Web Application
+
+**Technologies Used**
+
+HTML • CSS • JavaScript
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GogulaJayakrishna&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GogulaJayakrishna&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GogulaJayakrishna&layout=compact&theme=tokyonight&hide=python"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GogulaJayakrishna&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gogula-jayakrishna-19aa90282/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
+
+<a href="https://github.com/GogulaJayakrishna">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
 </p>
+
+📧 **Email:** gogulajayakrishna3@gmail.com
 
 ---
 
-### ✨ Thanks for visiting my profile!
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
+
+<h3 align="center">
+
+🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</h3>
